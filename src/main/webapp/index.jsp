@@ -9,7 +9,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
-        <h1 style="color: red; font-size: 40px;" align="right">Surendra</h1>
+        <h1 style="color: red; background-color:black; font-size: 60px; font-family:wide-latin" align="center">Surendra</h1>
         	
 	
 	
