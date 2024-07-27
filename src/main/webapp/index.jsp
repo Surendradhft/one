@@ -12,7 +12,8 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
         <h1 style="color: red; background-color:black; font-size: 60px; font-family:wide latin" align="center">Surendra</h1>
-        <h1 style="color:red; background-color:blue; font-size:100px; font-family:mistral" align="left">SURENDRA</h1>	
+        <h1 style="color:red; background-color:blue; font-size:100px; font-family:mistral" align="left">SURENDRA</h1>
+<h1 style="color:red; background-color:black; font-size:100px; font-family:wide latin" align="left">Surendra Chappidi</h1>
 	
 	
 	
