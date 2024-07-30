@@ -3,7 +3,7 @@
 
 </head>
 <body>
-        <h1 style="color: violet; background-color:yellow; font-family:mistral; font-size: 100px;" align="center">Kumar</h1>
+        <h1 style="color: violet; background-color:yellow; font-family:mistral; font-size: 100px;" align="center">Surendra Kumar</h1>
         <h1 style="color: violet; background-color:yellow; font-family:mistral; font-size: 100px;" align="center">SURENDRA</h1>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
