@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<title>Some relevant title</title>
 </head>
 <body>
    <h1 style="color: violet; background-color:yellow; font-family:wide latin; font-size: 100px;" align="center">DEVARA</h1>
